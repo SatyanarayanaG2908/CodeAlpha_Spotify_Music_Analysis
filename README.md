@@ -135,7 +135,7 @@ The project is planned for expansion with the following integrations:
 
 
 1️⃣ **Clone the repository**
-git clone [https://github.com/](https://github.com/)<your-username>
+git clone [https://github.com/SatyanarayanaG2908/CodeAlpha_Spotify_Music_Analysis]
 ---
 
 ---
